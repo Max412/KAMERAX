@@ -17,7 +17,7 @@ KAMERAX - it is a tool for automatic camera hacking - you just have to enter the
 # Usage
 The first time you launch, you will need to enter the <a href="https://account.shodan.io/login" target="_blank">Shodan API Key</a>.  
 When restarting Termux, to start, you will need to enter the following commands:
-* `cd tcam`  
+* `cd KAMERAX`  
 * `python3 KAMERAX.py`  
 
 # Flags
